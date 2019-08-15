@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BeingHealthieApplication</string>
+    <string name="title">Being Healthie"</string>
+    <string name="description1">Are you looking to cook &amp; eat healthy?</string>
+    <string name="description2">But confused what to cook and how to cook?</string>
+    <string name="description3">Now Forget All Your Worries...</string>
+    <string name="description4">Make your own meal in just 15 min!!!</string>
+    <string name="description5">We do all the prep work like washing, peeling, chopping &amp; marinating, so you can cook a fresh homemade healthy meal.</string>
+    <string name="description6">Order your meal kit now!!!</string>
+    <string name="OperatingHours">Operating hours: 8am to 10pm (All days)</string>
+    <string name="Email">Email: beinghealthie@foodie.com</string>
+    <string name="Phone">Phone: +1-650-495-9291</string>
+    <string name="Address">Address: 428 Madera Ave #4 Sunnyvale, CA 94086</string>
+</resources>
